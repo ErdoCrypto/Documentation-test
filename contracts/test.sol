@@ -2,7 +2,7 @@
 pragma solidity >=0.7.0 <0.9.0;
 
 
-/// @author Blockchain Knowledge Team
+/// @author ErdoCryptoo
 /// @title Demo Contract
 contract DemoContract 
 {
