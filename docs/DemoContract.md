@@ -1,6 +1,6 @@
 # DemoContract
 
-*Blockchain Knowledge Team*
+*ErdoCryptoo*
 
 > Demo Contract
 
